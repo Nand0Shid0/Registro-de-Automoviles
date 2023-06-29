@@ -1,0 +1,36 @@
+Bienvenido al programa de Registro Veicular de la Ciudad de Durango, Dgo.
+
+Creado Por: Carlos Fernando Gurrola Alvarez
+
+Puede Ejecutar el .exe (Registro Vehicular) o el de Python (.py)
+
+Nota: NUNCA OLVIDE SU CURP ES NECESARIA PARA TODOS LAS MODIFICACIONES 
+
+Hay un usuario Registrado como GUAC0211 (CURP) lo puede comprobar en Mostrar Info
+
+1.- Agregar Usuario:
+	* Debe de agregar forzosamente una CURP (Clave Única de Registro de Población) para que el programa sea funcional
+	y usted pueda modificar todo lo que sea posible
+	
+	*No se preocupe si introduce un digito mal en la sección de actualizar se podrá arregla siempre y cuando coloque la
+	CURP correcta.
+
+2.- ELiminar Usuario:
+	*Solamente necesita la CURP para eliminar a la persona deseado ( este se usara si esa persona ya no tiene el auto o 
+	cambio de auto en ese caso debera de ser eliminado y ser registrado de nuevo)
+
+3.- Mostrar Info:
+	*Introduzca la CURP de la persona que quiere verificar sus datos, si son incorrectos ingrese a la pestaña de 	Actualizar y modifique (no olvide la CURP)
+	
+	*Verifique la CURP que podria eliminar a otra persona!!!!
+
+4.- Actualizar (Modificar):
+	*Ingrese la CURP del usuario a Modificar
+	
+	*Si solo cambiara una cosa debera de ingresar la informacion anterior ya que quedara vacia al dar clic en 	Actualizar (CUIDADO CON ESA PARTE)
+
+Copyright (c) 2021 Fernando Gurrola
+All Rights Reserved
+ 
+This product is protected by copyright and distributed under
+licenses restricting copying, distribution, and decompilation.
